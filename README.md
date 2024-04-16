@@ -1,4 +1,4 @@
-# EaglerForge-v1.3 (Based on u27)
+# EaglerForge-v1.3 (Based on u26/u27)
 
 https://radioactivepotato.github.io/EaglerForge-v1.3
 
