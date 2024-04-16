@@ -2,4 +2,4 @@
 
 https://radioactivepotato.github.io/EaglerForge-v1.3
 
-https://eaglerforge1-3.vercel.app
+https://eaglerforge-v1-3.vercel.app
